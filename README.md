@@ -1,6 +1,6 @@
 <h1 align="center" ;>👋 Hi! I'm Ricard</h1>
 <div align="center">
-## A passionate Junior full-stack developer & design enthusiast from Barcelona -
+  <p>A passionate Junior full-stack developer & design enthusiast from Barcelona</p>
 - 👀 I’m interested in MERN stack and everything related to the fashion industry
   and game development. 
 - 🌱 Currently trying to get a deeper knowledge of the MERN stack and playing around with Unity 3D and C#. 
