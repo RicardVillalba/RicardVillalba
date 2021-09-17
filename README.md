@@ -16,7 +16,7 @@
   &nbsp;
 </p>
   </div>
-<div align="center">
+<div align="center" style="font-weight: 400; display: flex; flex-direction: column; " >
 <a href="https://github.com/anuraghazra/github-readme-stats"  style="text-decoration: none;color: black; cursor: pointer;">
               
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardVillalba&count_private=true&hide=contribs,issues&show_icons=true&theme=graywhite" />
