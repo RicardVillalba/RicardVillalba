@@ -17,11 +17,8 @@
 </p>
   </div>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"  style="
-              text-decoration: none;
-              color: black;
-              cursor: pointer;
-            " >
+<a href="https://github.com/anuraghazra/github-readme-stats"  style="text-decoration: none;color: black; cursor: pointer;">
+              
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardVillalba&count_private=true&hide=contribs,issues&show_icons=true&theme=graywhite" />
 </a>
 
