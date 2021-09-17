@@ -1,5 +1,5 @@
 <h1 align="center" ;>👋 Hi! I'm Ricard</h1>
-
+<div align="center">
 ## A passionate Junior full-stack developer & design enthusiast from Barcelona -
 - 👀 I’m interested in MERN stack and everything related to the fashion industry
   and game development. 
@@ -16,6 +16,7 @@
   </a>
   &nbsp;
 </p>
+  </div>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardVillalba&count_private=true&hide=contribs,issues&show_icons=true&theme=graywhite" />
