@@ -5,7 +5,7 @@
   <p>Currently trying to get a deeper knowledge of the MERN stack and playing around with Unity 3D and C#.</p> 
 
 <p>
-  📫 How to reach me:
+  Get in touch: 
   <a href=" ricardsax@gmail.com" rel="nofollow noreferrer">
     ricardsax@gmail.com</a
   >
