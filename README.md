@@ -16,15 +16,15 @@
   </a>
   &nbsp;
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardVillalba&count_private=true&hide=contribs,issues&show_icons=true&theme=graywhite" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact&hide=rust,shell,GLSL,assembly,objective-c" />
 </a>
-
+</div>
 
 
 
