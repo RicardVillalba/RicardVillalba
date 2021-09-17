@@ -2,8 +2,8 @@
 
 ## A passionate Junior full-stack developer & design enthusiast from Barcelona -
 👀 I’m interested in MERN stack and everything related to the fashion industry
-and game development. - 🌱 Currently trying to get a deeper knowledge of the
-MERN stack and playing around with Unity 3D and C#. -
+and game development. 
+- 🌱 Currently trying to get a deeper knowledge of the MERN stack and playing around with Unity 3D and C#. -
 <p>
   📫 How to reach me:
   <a href=" ricardsax@gmail.com" rel="nofollow noreferrer">
