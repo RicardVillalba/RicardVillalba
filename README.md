@@ -18,7 +18,8 @@
 </p>
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardVillalba)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardVillalba&hide=contribs,prs)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact&hide=rust,shell,GLSL,assembly,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
