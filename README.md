@@ -4,7 +4,7 @@
 
 ## A passionate Junior full-stack developer & design enthusiast from Barcelona
 - 👀 I’m interested in MERN stack and everything related to the fashion industry and game development. 
-- 🌱 currently learning Firebase, Unity 3D and C#.
+- 🌱 Currently trying to get a deeper knowledge of the MERN stack and playing around with Unity 3D and C#
 
 
 
