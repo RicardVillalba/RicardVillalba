@@ -1,4 +1,4 @@
-<h1 align="center" ;>👋 Hi! I'm Ricard</h1>
+<h1 align="center" style="font-size: 28px; font-weight: 400; letter-spacing: 1.5px" >👋 Hi! I'm Ricard</h1>
 <div align="center">
   <p>A passionate Junior full-stack developer & design enthusiast from Barcelona</p>
 - 👀 I’m interested in MERN stack and everything related to the fashion industry
