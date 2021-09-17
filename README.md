@@ -15,9 +15,7 @@
   </a>
   &nbsp;
 </p>
-  </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"  style="text-decoration: none;color: black; cursor: pointer;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"  style="text-decoration: none;color: black; cursor: pointer;">
               
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardVillalba&count_private=true&hide=contribs,issues&show_icons=true&theme=graywhite" />
 </a>
@@ -25,6 +23,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" style="filter: grayscale(100%)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact&hide=rust,shell,GLSL,assembly,objective-c" />
 </a>
+  </div>
+
+
 
 
 
