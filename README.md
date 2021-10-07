@@ -10,7 +10,7 @@
     ricardsax@gmail.com</a
   >
   &nbsp;
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/ricard-villalba/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" /> LinkedIn
   </a>
   &nbsp;
