@@ -2,7 +2,7 @@
 <div align="center">
   <p style="font-family: Helvetica, sans-serif; font-weight: 200" >A passionate Junior full-stack developer & design enthusiast from Barcelona</p>
   <p>I’m interested in MERN stack and everything related to the fashion industry and game development. </p>
-  <p>Currently trying to get a deeper knowledge of the MERN stack and playing around with Unity 3D and C#.</p> 
+  <p>Currently attending a Certificate of Higher Education (HNC) in Multi-platform Applications Development (learning JAVA and    C++) and trying to get a deeper knowledge of the MERN stack.</p> 
 
 <p>
   Get in touch: 
